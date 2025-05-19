@@ -1,0 +1,42 @@
+/* Narrative section styles */
+.emotional {
+  background: linear-gradient(rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.8)), url('https://images.unsplash.com/photo-1528164344705-47542687000d?q=80&w=1492&auto=format&fit=crop') center/cover no-repeat;
+  color: white;
+  text-align: center;
+  padding: 80px 0;
+}
+
+.emotional h2 {
+  color: white;
+  font-size: 36px;
+}
+
+.emotional p {
+  font-size: 22px;
+  max-width: 800px;
+  margin: 0 auto 30px;
+}
+
+.emotional p:last-child {
+  font-size: 24px;
+  font-weight: 700;
+  color: #ffcc00;
+}
+
+@media (max-width: 768px) {
+  .emotional {
+    padding: 60px 0;
+  }
+  
+  .emotional h2 {
+    font-size: 28px;
+  }
+  
+  .emotional p {
+    font-size: 18px;
+  }
+  
+  .emotional p:last-child {
+    font-size: 20px;
+  }
+}

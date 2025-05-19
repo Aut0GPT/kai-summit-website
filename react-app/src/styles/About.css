@@ -1,0 +1,35 @@
+/* About section styles */
+.about {
+  background-color: white;
+  text-align: center;
+}
+
+.kanji {
+  font-size: 72px;
+  margin: 20px 0;
+  color: #1a3c6e;
+  font-family: 'Arial', sans-serif;
+}
+
+.main-concept {
+  font-size: 20px;
+  font-weight: 600;
+  max-width: 800px;
+  margin: 0 auto 25px;
+  color: #1a3c6e;
+}
+
+.about p {
+  max-width: 800px;
+  margin: 0 auto 20px;
+}
+
+@media (max-width: 768px) {
+  .kanji {
+    font-size: 56px;
+  }
+  
+  .main-concept {
+    font-size: 18px;
+  }
+}

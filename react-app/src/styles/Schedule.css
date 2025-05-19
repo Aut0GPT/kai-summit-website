@@ -1,0 +1,80 @@
+/* Schedule section styles */
+.schedule {
+  background-color: #f0f5ff;
+}
+
+.timeline {
+  margin: 40px 0;
+  position: relative;
+}
+
+.timeline::before {
+  content: '';
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 20px;
+  width: 4px;
+  background-color: #1a3c6e;
+}
+
+.timeline-item {
+  position: relative;
+  padding-left: 60px;
+  margin-bottom: 40px;
+}
+
+.timeline-time {
+  position: absolute;
+  left: 0;
+  width: 40px;
+  height: 40px;
+  background-color: #e94f37;
+  color: white;
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-weight: bold;
+  z-index: 2;
+}
+
+.timeline-content {
+  background-color: white;
+  padding: 20px;
+  border-radius: 8px;
+  box-shadow: 0 3px 10px rgba(0, 0, 0, 0.1);
+}
+
+.timeline-content h3 {
+  color: #1a3c6e;
+  margin-bottom: 10px;
+}
+
+.speaker {
+  font-weight: bold;
+  color: #e94f37;
+  margin-top: 10px;
+}
+
+.speaker-bio {
+  font-size: 16px;
+  font-style: italic;
+  color: #666;
+}
+
+@media (max-width: 768px) {
+  .timeline::before {
+    left: 15px;
+  }
+  
+  .timeline-item {
+    padding-left: 45px;
+  }
+  
+  .timeline-time {
+    width: 30px;
+    height: 30px;
+    font-size: 12px;
+  }
+}

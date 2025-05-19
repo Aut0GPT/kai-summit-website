@@ -1,0 +1,38 @@
+{
+  "introduction": "O Kai Summit oferece uma experiência completa que combina conhecimento, networking e cultura para todas as gerações.",
+  "categories": [
+    {
+      "title": "Conhecimento e Desenvolvimento",
+      "benefits": [
+        "Expandir seu repertório com palestras sobre empreendedorismo, inovação, IA e economia de comunidade",
+        "Desenvolver habilidades pessoais com metodologias que despertam mindset de liderança, propósito e alta performance",
+        "Aprender com especialistas e líderes de diferentes gerações e setores"
+      ]
+    },
+    {
+      "title": "Networking e Conexões",
+      "benefits": [
+        "Ampliar seu networking em momentos de coffee break, almoço e happy hour",
+        "Criar pontes entre jovens talentos e líderes experientes",
+        "Conectar-se com pessoas que compartilham valores similares e complementares"
+      ]
+    },
+    {
+      "title": "Experiência e Cultura",
+      "benefits": [
+        "Experimentar produtos e serviços em mesas interativas",
+        "Viver a cultura com demonstrações culturais e gastronomia típica",
+        "Celebrar a diversidade que move o ecossistema Kaikan"
+      ]
+    },
+    {
+      "title": "Incluso no Evento",
+      "benefits": [
+        "Material digital com conteúdo exclusivo",
+        "Coffee break durante todo o evento",
+        "Certificado de participação",
+        "Acesso a todas as palestras e painéis"
+      ]
+    }
+  ]
+}

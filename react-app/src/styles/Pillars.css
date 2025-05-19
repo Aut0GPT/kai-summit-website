@@ -1,0 +1,55 @@
+/* Pillars section styles */
+.pillars {
+  background-color: #f0f5ff;
+  text-align: center;
+}
+
+.pillars-container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 30px;
+  margin-top: 40px;
+}
+
+.pillar-card {
+  background-color: white;
+  border-radius: 12px;
+  padding: 30px;
+  width: 100%;
+  max-width: 250px;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+  transition: transform 0.3s ease;
+}
+
+.pillar-card:hover {
+  transform: translateY(-10px);
+}
+
+.pillar-card h3 {
+  font-size: 24px;
+  margin-bottom: 10px;
+}
+
+.pillar-card .japanese {
+  font-size: 20px;
+  color: #e94f37;
+  margin-bottom: 15px;
+}
+
+.pillar-icon {
+  font-size: 48px;
+  margin-bottom: 20px;
+  color: #1a3c6e;
+}
+
+@media (max-width: 768px) {
+  .pillars-container {
+    gap: 20px;
+  }
+  
+  .pillar-card {
+    max-width: 100%;
+    margin-bottom: 20px;
+  }
+}

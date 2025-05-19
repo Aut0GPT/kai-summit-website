@@ -1,0 +1,29 @@
+{
+  "introduction": "O evento se estrutura sobre quatro pilares fundamentais, todos eles profundamente enraizados na cultura japonesa e com aplicação prática no cotidiano de qualquer profissional ou empresa:",
+  "pillars": [
+    {
+      "name": "Ikigai",
+      "japanese": "生き甲斐",
+      "description": "A descoberta do propósito de vida, o motivo que nos impulsiona a levantar todos os dias com gratidão.",
+      "icon": "🌱"
+    },
+    {
+      "name": "Omotenashi",
+      "japanese": "おもてなし",
+      "description": "A excelência na arte de servir, com empatia, atenção e cuidado genuíno.",
+      "icon": "🍵"
+    },
+    {
+      "name": "Kaizen",
+      "japanese": "改善",
+      "description": "A busca pela melhoria contínua, passo a passo, todos os dias.",
+      "icon": "🔄"
+    },
+    {
+      "name": "Rinri",
+      "japanese": "倫理",
+      "description": "A prática da ética pura, que orienta o agir correto mesmo quando ninguém está olhando.",
+      "icon": "⚖️"
+    }
+  ]
+}

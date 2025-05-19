@@ -1,0 +1,54 @@
+{
+  "introduction": "Ao longo de um dia intenso vocu00ea vai participar de palestras, painu00e9is e demonstrau00e7u00f5es culturais que celebram a conexu00e3o entre gerau00e7u00f5es.",
+  "timeline": [
+    {
+      "time": "09h00",
+      "title": "Inu00edcio do Credenciamento, Recepu00e7u00e3o e Networking",
+      "description": "Chegada dos participantes, entrega de materiais e momento para networking inicial."
+    },
+    {
+      "time": "10h00",
+      "title": "Kai Summit Cerimu00f4nia de Abertura",
+      "description": "Presidentes, diretores, organizadores e parceiros du00e3o as boas-vindas aos participantes."
+    },
+    {
+      "time": "11h00",
+      "title": "Palestra Fu00e1bio Kamada",
+      "description": "Abertura das palestras principais com um dos destaques do evento.",
+      "speaker": "Fu00e1bio Kamada"
+    },
+    {
+      "time": "11h30",
+      "title": "Palestra Omotenashi: A arte japonesa de encantar com excelu00eancia e alma",
+      "description": "Cuidar de todo o corau00e7u00e3o, o segredo da hospitalidade japonesa.",
+      "speaker": "Roberto Sekiya",
+      "bio": "Roberto Sekiya u00e9 CEO da B2B Business Connection, fundador da Causa Empreendedora, assessor do vereador George Hato e membro da comissu00e3o organizadora do Festival do Japu00e3o. Com mais de 20 anos de atuau00e7u00e3o, conecta o setor pu00fablico e privado com foco em empreendedorismo, cultura e desenvolvimento estratu00e9gico."
+    },
+    {
+      "time": "14h00",
+      "title": "Painel Maypi",
+      "description": "Discusssu00e3o sobre temas relevantes para a comunidade nipo-brasileira."
+    },
+    {
+      "time": "14h30",
+      "title": "Palestra Como manter vivas as tradiu00e7u00f5es japonesas na era digital atravu00e9s do Kwai",
+      "description": "O impacto da tecnologia na preservau00e7u00e3o e disseminau00e7u00e3o da cultura japonesa.",
+      "speaker": "Fellipe Franu00e7a",
+      "bio": "Antonio Fellipe Franu00e7a u00e9 UI/UX and Product Design Specialist do Kwai."
+    },
+    {
+      "time": "17h30",
+      "title": "Palestra Inteligu00eancia Artificial e seu impacto na cultura e na sociedade",
+      "description": "Como se preparar para o futuro?",
+      "speaker": "Juliano Kimura",
+      "bio": "Palestrante Nacional sobre Transformau00e7u00e3o Digital - Foi palestrante do Facebook Brasil, autor do Livro Secreto das Redes Sociais, eleito melhor profissional de redes sociais 2x, fundador da Unique Human, Trianons e Confraria Web3."
+    },
+    {
+      "time": "19h30",
+      "title": "Palestra Como as comunidades japonesas promovem sau00fade em nossas vidas?",
+      "description": "A importu00e2ncia das comunidades para o bem-estar e a qualidade de vida.",
+      "speaker": "Patru00edcia Nagase",
+      "bio": "Palestrante e facilitadora de workshops, promove bem-estar e equilu00edbrio na carreira e maternidade."
+    }
+  ]
+}
