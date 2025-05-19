@@ -1,0 +1,72 @@
+{
+  "introduction": "Organizações que acreditam no poder da conexão entre gerações:",
+  "partners": [
+    {
+      "name": "SPN",
+      "logo": "spn-logo.png",
+      "description": "Sociedade Paulista Nippo-Brasileira"
+    },
+    {
+      "name": "Rotary Club de São Paulo Pró-Juventude",
+      "logo": "rotary-logo.png",
+      "description": "Organização dedicada ao serviço humanitário"
+    },
+    {
+      "name": "Laços Humanitários",
+      "logo": "lacos-logo.png",
+      "description": "Instituição de apoio social e cultural"
+    },
+    {
+      "name": "Nikkei Keiyukai do Brasil",
+      "logo": "nikkei-logo.png",
+      "description": "Associação empresarial nipo-brasileira"
+    },
+    {
+      "name": "Brasil Nikkei",
+      "logo": "brasil-nikkei-logo.png",
+      "description": "Comunidade nipo-brasileira"
+    },
+    {
+      "name": "CF Digital",
+      "logo": "cf-digital-logo.png",
+      "description": "Empresa de tecnologia e marketing digital"
+    },
+    {
+      "name": "Kwai",
+      "logo": "kwai-logo.png",
+      "description": "Plataforma de conteúdo e rede social"
+    },
+    {
+      "name": "AnaMid",
+      "logo": "anamid-logo.png",
+      "description": "Empresa de inovação e desenvolvimento"
+    },
+    {
+      "name": "Abcomm",
+      "logo": "abcomm-logo.png",
+      "description": "Associação Brasileira de Comércio Eletrônico"
+    }
+  ],
+  "contacts": [
+    {
+      "name": "Hélvio Ferreira",
+      "phone": "11 96000-1488",
+      "role": "Patrocinadores e Parceiros"
+    },
+    {
+      "name": "Tiene Shiki",
+      "phone": "11 975 303 666",
+      "role": "Patrocinadores e Parceiros"
+    },
+    {
+      "name": "Rita de Cássia Cruz Silva",
+      "phone": "11 934 094 045",
+      "role": "Patrocinadores e Parceiros"
+    },
+    {
+      "name": "Juliano Kimura",
+      "phone": "11 996 936 340",
+      "role": "Patrocinadores e Parceiros"
+    }
+  ]
+}

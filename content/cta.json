@@ -1,0 +1,46 @@
+{
+  "main": {
+    "text": "GARANTA SUA PARTICIPAÇÃO",
+    "url": "https://www.sympla.com.br/evento/kai-summit/2947972"
+  },
+  "variations": [
+    {
+      "text": "FAÇA PARTE DESTE ENCONTRO",
+      "url": "https://www.sympla.com.br/evento/kai-summit/2947972"
+    },
+    {
+      "text": "RESERVE SEU LUGAR",
+      "url": "https://www.sympla.com.br/evento/kai-summit/2947972"
+    },
+    {
+      "text": "INSCREVA-SE AGORA",
+      "url": "https://www.sympla.com.br/evento/kai-summit/2947972"
+    }
+  ],
+  "urgency": "31 de maio de 2025 - Vagas Limitadas!",
+  "benefit": "Transforme valores em ação: Uma experiência única para todas as gerações",
+  "sections": {
+    "top": {
+      "text": "GARANTA SUA PARTICIPAÇÃO",
+      "subtext": "Evento único e transformador"
+    },
+    "middle": {
+      "text": "RESERVE SEU LUGAR",
+      "subtext": "Junte-se a líderes e visionários nesta jornada de transformação"
+    },
+    "bottom": {
+      "text": "INSCREVA-SE AGORA",
+      "subtext": "Sua história se conecta aqui: Tradição e futuro no mesmo encontro"
+    }
+  },
+  "support": {
+    "inclusions": "Inclui: Material digital, coffee break, certificado de participação",
+    "security": "Pagamento seguro",
+    "cancellation": "Cancelamento gratuito até 7 dias antes do evento"
+  },
+  "audience": {
+    "seniors": "Compartilhe sua sabedoria, renove suas energias: Seu lugar está reservado",
+    "adults": "Conecte valores tradicionais ao seu sucesso profissional: Inscreva-se agora",
+    "youth": "Construa seu futuro com a sabedoria de gerações: Participe deste encontro único"
+  }
+}

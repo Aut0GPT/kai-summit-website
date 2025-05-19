@@ -1,0 +1,30 @@
+{
+  "name": "Kai Summit",
+  "tagline": "Conectando Gerações, Construindo Futuros: A Sabedoria Japonesa que Transforma Vidas",
+  "date": "31 de maio de 2025",
+  "time": "09h00 às 21h00",
+  "location": {
+    "venue": "Associação Cultural Esportiva Santana (ACESA)",
+    "address": "R. José Dantas Magalhães Glória, 179",
+    "city": "São Paulo",
+    "state": "SP",
+    "mapUrl": "https://maps.google.com/maps?q=R.+José+Dantas+Magalhães+Glória,+179+-+São+Paulo,+SP"
+  },
+  "tickets": [
+    {
+      "name": "Ingresso do Bem",
+      "price": "Grátis",
+      "description": "2kg alimento não perecível",
+      "availableUntil": "31/05/2025"
+    },
+    {
+      "name": "Contribuição Voluntária",
+      "price": "R$ 29,00",
+      "installments": "em até 6x R$ 5,44",
+      "availableUntil": "31/05/2025"
+    }
+  ],
+  "registerUrl": "https://www.sympla.com.br/evento/kai-summit/2947972",
+  "cancellationPolicy": "Cancelamentos de pedidos serão aceitos até 7 dias após a compra, desde que a solicitação seja enviada até 48 horas antes do início do evento.",
+  "participantEditPolicy": "Você poderá editar o participante de um ingresso apenas uma vez. Essa opção ficará disponível até 24 horas antes do início do evento."
+}

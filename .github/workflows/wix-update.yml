@@ -1,0 +1,35 @@
+name: Update Wix Site Content
+
+on:
+  push:
+    branches: [ main ]
+    paths:
+      - 'content/**'
+
+jobs:
+  update-wix-content:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      
+      - name: Setup Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: '18'
+      
+      - name: Install Wix CLI
+        run: npm install -g @wix/cli
+      
+      - name: Authenticate with Wix
+        run: wix login --api-key ${{ secrets.WIX_API_KEY }}
+      
+      - name: Update content on Wix site
+        run: |
+          # Script to update Wix site content based on JSON files
+          # This uses the Wix CLI to update components and pages
+          
+          # Example: Update event info
+          EVENT_INFO=$(cat ./content/event-info.json)
+          wix data update collections.YourEventCollection --id=event-info --data="$EVENT_INFO"
+          
+          echo "Content updated successfully on Wix site"

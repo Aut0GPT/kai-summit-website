@@ -1,0 +1,42 @@
+{
+  "siteName": "Kai Summit 2025",
+  "siteId": "YOUR_WIX_SITE_ID",
+  "siteUrl": "YOUR_WIX_SITE_URL",
+  "contentMappings": [
+    {
+      "jsonPath": "content/event-info.json",
+      "wixDataCollection": "KaiEvent",
+      "wixItemId": "event-info"
+    },
+    {
+      "jsonPath": "content/about.json",
+      "wixDataCollection": "KaiContent",
+      "wixItemId": "about-section"
+    },
+    {
+      "jsonPath": "content/pillars.json",
+      "wixDataCollection": "KaiContent",
+      "wixItemId": "pillars-section"
+    },
+    {
+      "jsonPath": "content/schedule.json",
+      "wixDataCollection": "KaiSchedule",
+      "wixItemId": "event-schedule"
+    },
+    {
+      "jsonPath": "content/benefits.json",
+      "wixDataCollection": "KaiContent",
+      "wixItemId": "benefits-section"
+    },
+    {
+      "jsonPath": "content/cta.json",
+      "wixDataCollection": "KaiContent",
+      "wixItemId": "cta-content"
+    },
+    {
+      "jsonPath": "content/partners.json",
+      "wixDataCollection": "KaiPartners",
+      "wixItemId": "partners-list"
+    }
+  ]
+}
