@@ -1,0 +1,50 @@
+/* CTA section styles */
+.cta-final {
+  background-color: #1a3c6e;
+  color: white;
+  text-align: center;
+  padding: 70px 0;
+}
+
+.cta-final h2 {
+  color: white;
+  font-size: 36px;
+}
+
+.cta-final p {
+  font-size: 22px;
+  max-width: 700px;
+  margin: 0 auto 30px;
+}
+
+.cta-final .btn {
+  background-color: #e94f37;
+  margin: 30px auto;
+  display: block;
+}
+
+.cta-final .btn:hover {
+  background-color: #d03a24;
+}
+
+.cta-final small {
+  display: block;
+  max-width: 500px;
+  margin: 5px auto;
+  font-size: 16px;
+  opacity: 0.8;
+}
+
+@media (max-width: 768px) {
+  .cta-final {
+    padding: 50px 0;
+  }
+  
+  .cta-final h2 {
+    font-size: 28px;
+  }
+  
+  .cta-final p {
+    font-size: 18px;
+  }
+}
