@@ -5,7 +5,7 @@ const Header = ({ eventInfo }) => {
   return (
     <header className="site-header">
       <div className="container header-content">
-        <h1>{eventInfo.name.toUpperCase()} {new Date(eventInfo.date).getFullYear()}</h1>
+        <h1>{eventInfo.name.toUpperCase()} 2025</h1>
         <p className="date-location">
           {eventInfo.date} • {eventInfo.location.venue} • {eventInfo.location.city}
         </p>

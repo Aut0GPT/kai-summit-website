@@ -8,7 +8,7 @@ const Footer = ({ eventInfo }) => {
         <p>&copy; {new Date().getFullYear()} Kai Summit - {eventInfo.location.venue}</p>
         <div className="contact-info">
           <p>{eventInfo.location.address} - {eventInfo.location.city}, {eventInfo.location.state}</p>
-          <p>Para mais informau00e7u00f5es: (11) 3456-7890</p>
+          <p>Para mais informações: (11) 3456-7890</p>
         </div>
       </div>
     </footer>
